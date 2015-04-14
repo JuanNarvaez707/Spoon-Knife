@@ -1,4 +1,4 @@
-Alvaro Martinez, Daniel Correa, Juan Narvaez
+Alvaro Martinez, Daniel Correa, Juan Camilo Narvaez
 
 ### Well hello there!
 
